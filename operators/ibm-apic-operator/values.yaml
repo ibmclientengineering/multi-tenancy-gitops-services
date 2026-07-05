@@ -5,7 +5,7 @@ ibm-apic-operator:
     ibmapic:
       name: ibm-apic
       subscription:
-        channel: v2.1-eus
+        channel: v8.0
         installPlanApproval: Automatic
         name: ibm-apiconnect
         source: ibm-operator-catalog
