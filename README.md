@@ -1,3 +1,5 @@
+> **Provenance**: Maintained by IBM Client Engineering (github.com/ibmclientengineering). Derived from cloud-native-toolkit/multi-tenancy-gitops-services (Apache-2.0); modernized for CP4I 16.x / OpenShift 4.18+ (July 2026).
+
 # Cloud Native Toolkit Operators and Instances Catalog for GitOps
 
 This git repository serves as a catalog/library of Operators and Instances of the custom resource(s) provided by the Operators for the [GitOps workflow](https://github.com/cloud-native-toolkit/multi-tenancy-gitops).  The Operator and Instance YAMLs are package as a Helm Chart and can be referenced by ArgoCD Applications.
