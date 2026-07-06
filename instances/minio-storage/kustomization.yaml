@@ -1,3 +1,0 @@
-resources:
-- deployment/minio-dev.yaml
-- storage/minio-dev-resources-pvc.yaml
